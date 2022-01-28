@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+-<site site="firstmedia.com" generator-info-name="WebGrab+Plus/w MDB & REX Postprocess -- version V3.1.4.2 -- Jan van Straaten">
+
+
+-<channels>
+
+<channel site="firstmedia.com" xmltv_id="BERITA SATU HD" site_id="1" update="i">BERITA SATU HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="JAKARTA GLOBE NEWS CHANNEL" site_id="2" update="i">JAKARTA GLOBE NEWS CHANNEL</channel>
+
+<channel site="firstmedia.com" xmltv_id="FIRST LIFESTYLE" site_id="3" update="i">FIRST LIFESTYLE</channel>
+
+<channel site="firstmedia.com" xmltv_id="NET." site_id="5" update="i">NET.</channel>
+
+<channel site="firstmedia.com" xmltv_id="METRO TV" site_id="7" update="i">METRO TV</channel>
+
+<channel site="firstmedia.com" xmltv_id="TRANS 7" site_id="8" update="i">TRANS 7</channel>
+
+<channel site="firstmedia.com" xmltv_id="TRANS TV" site_id="9" update="i">TRANS TV</channel>
+
+<channel site="firstmedia.com" xmltv_id="SCTV" site_id="10" update="i">SCTV</channel>
+
+<channel site="firstmedia.com" xmltv_id="INDOSIAR" site_id="11" update="i">INDOSIAR</channel>
+
+<channel site="firstmedia.com" xmltv_id="ANTV" site_id="13" update="i">ANTV</channel>
+
+<channel site="firstmedia.com" xmltv_id="TV ONE" site_id="14" update="i">TV ONE</channel>
+
+<channel site="firstmedia.com" xmltv_id="KOMPAS TV" site_id="15" update="i">KOMPAS TV</channel>
+
+<channel site="firstmedia.com" xmltv_id="TVRI NASIONAL" site_id="16" update="i">TVRI NASIONAL</channel>
+
+<channel site="firstmedia.com" xmltv_id="JTV" site_id="17" update="i">JTV</channel>
+
+<channel site="firstmedia.com" xmltv_id="TV PARLEMEN" site_id="18" update="i">TV PARLEMEN</channel>
+
+<channel site="firstmedia.com" xmltv_id="BERITA SATU WORLD" site_id="19" update="i">BERITA SATU WORLD</channel>
+
+<channel site="firstmedia.com" xmltv_id="REFORMED 21" site_id="21" update="i">REFORMED 21</channel>
+
+<channel site="firstmedia.com" xmltv_id="BALAIKOTA MALANG" site_id="22" update="i">BALAIKOTA MALANG</channel>
+
+<channel site="firstmedia.com" xmltv_id="KAIROS" site_id="23" update="i">KAIROS</channel>
+
+<channel site="firstmedia.com" xmltv_id="SPH CHANNEL" site_id="24" update="i">SPH CHANNEL</channel>
+
+<channel site="firstmedia.com" xmltv_id="O CHANNEL" site_id="26" update="i">O CHANNEL</channel>
+
+<channel site="firstmedia.com" xmltv_id="DAAITV" site_id="27" update="i">DAAITV</channel>
+
+<channel site="firstmedia.com" xmltv_id="EWTN" site_id="29" update="i">EWTN</channel>
+
+<channel site="firstmedia.com" xmltv_id="BALAIKOTA BOGOR" site_id="32" update="i">BALAIKOTA BOGOR</channel>
+
+<channel site="firstmedia.com" xmltv_id="BALAIKOTA CHANNEL" site_id="33" update="i">BALAIKOTA CHANNEL</channel>
+
+<channel site="firstmedia.com" xmltv_id="BALAIKOTA BANDUNG" site_id="34" update="i">BALAIKOTA BANDUNG</channel>
+
+<channel site="firstmedia.com" xmltv_id="Fox Life" site_id="35" update="i">Fox Life</channel>
+
+<channel site="firstmedia.com" xmltv_id="NAT GEO PEOPLE" site_id="36" update="i">NAT GEO PEOPLE</channel>
+
+<channel site="firstmedia.com" xmltv_id="AXN" site_id="51" update="i">AXN</channel>
+
+<channel site="firstmedia.com" xmltv_id="ANIMAX" site_id="52" update="i">ANIMAX</channel>
+
+<channel site="firstmedia.com" xmltv_id="FOX" site_id="55" update="i">FOX</channel>
+
+<channel site="firstmedia.com" xmltv_id="FOX CRIME" site_id="56" update="i">FOX CRIME</channel>
+
+<channel site="firstmedia.com" xmltv_id="FOX FAMILY MOVIES" site_id="58" update="i">FOX FAMILY MOVIES</channel>
+
+<channel site="firstmedia.com" xmltv_id="EURONEWS" site_id="60" update="i">EURONEWS</channel>
+
+<channel site="firstmedia.com" xmltv_id="JAK-TV" site_id="62" update="i">JAK-TV</channel>
+
+<channel site="firstmedia.com" xmltv_id="TLC" site_id="72" update="i">TLC</channel>
+
+<channel site="firstmedia.com" xmltv_id="ASIAN FOOD CHANNEL" site_id="76" update="i">ASIAN FOOD CHANNEL</channel>
+
+<channel site="firstmedia.com" xmltv_id="FASHION TV" site_id="81" update="i">FASHION TV</channel>
+
+<channel site="firstmedia.com" xmltv_id="DISCOVERY CHANNEL" site_id="101" update="i">DISCOVERY CHANNEL</channel>
+
+<channel site="firstmedia.com" xmltv_id="ANIMAL PLANET" site_id="105" update="i">ANIMAL PLANET</channel>
+
+<channel site="firstmedia.com" xmltv_id="NATIONAL GEOGRAPHIC CHANNEL" site_id="110" update="i">NATIONAL GEOGRAPHIC CHANNEL</channel>
+
+<channel site="firstmedia.com" xmltv_id="NAT GEO WILD" site_id="111" update="i">NAT GEO WILD</channel>
+
+<channel site="firstmedia.com" xmltv_id="DISNEY CHANNEL" site_id="120" update="i">DISNEY CHANNEL</channel>
+
+<channel site="firstmedia.com" xmltv_id="DISNEY JUNIOR" site_id="121" update="i">DISNEY JUNIOR</channel>
+
+<channel site="firstmedia.com" xmltv_id="NICK JR" site_id="124" update="i">NICK JR</channel>
+
+<channel site="firstmedia.com" xmltv_id="NICKELODEON" site_id="125" update="i">NICKELODEON</channel>
+
+<channel site="firstmedia.com" xmltv_id="CARTOON NETWORK" site_id="127" update="i">CARTOON NETWORK</channel>
+
+<channel site="firstmedia.com" xmltv_id="BABY FIRST" site_id="128" update="i">BABY FIRST</channel>
+
+<channel site="firstmedia.com" xmltv_id="EUROSPORT" site_id="151" update="i">EUROSPORT</channel>
+
+<channel site="firstmedia.com" xmltv_id="Rugby Pass Tv" site_id="156" update="i">Rugby Pass Tv</channel>
+
+<channel site="firstmedia.com" xmltv_id="FOX SPORTS" site_id="157" update="i">FOX SPORTS</channel>
+
+<channel site="firstmedia.com" xmltv_id="FOX SPORTS 2" site_id="158" update="i">FOX SPORTS 2</channel>
+
+<channel site="firstmedia.com" xmltv_id="STAR GOLD" site_id="160" update="i">STAR GOLD</channel>
+
+<channel site="firstmedia.com" xmltv_id="ZEE TV" site_id="172" update="i">ZEE TV</channel>
+
+<channel site="firstmedia.com" xmltv_id="COLORS" site_id="173" update="i">COLORS</channel>
+
+<channel site="firstmedia.com" xmltv_id="MTV INDIA" site_id="174" update="i">MTV INDIA</channel>
+
+<channel site="firstmedia.com" xmltv_id="ZEE CINEMA" site_id="175" update="i">ZEE CINEMA</channel>
+
+<channel site="firstmedia.com" xmltv_id="TVB XINGHE" site_id="201" update="i">TVB XINGHE</channel>
+
+<channel site="firstmedia.com" xmltv_id="PHOENIX INFO NEWS" site_id="202" update="i">PHOENIX INFO NEWS</channel>
+
+<channel site="firstmedia.com" xmltv_id="PHOENIX CHINESE CHANNEL" site_id="203" update="i">PHOENIX CHINESE CHANNEL</channel>
+
+<channel site="firstmedia.com" xmltv_id="S ONE" site_id="205" update="i">S ONE</channel>
+
+<channel site="firstmedia.com" xmltv_id="CCTV 4" site_id="209" update="i">CCTV 4</channel>
+
+<channel site="firstmedia.com" xmltv_id="CGTN" site_id="210" update="i">CGTN</channel>
+
+<channel site="firstmedia.com" xmltv_id="TVBS ASIA" site_id="211" update="i">TVBS ASIA</channel>
+
+<channel site="firstmedia.com" xmltv_id="TVBS NEWS" site_id="212" update="i">TVBS NEWS</channel>
+
+<channel site="firstmedia.com" xmltv_id="HUNAN TV" site_id="214" update="i">HUNAN TV</channel>
+
+<channel site="firstmedia.com" xmltv_id="DRAGON TV" site_id="215" update="i">DRAGON TV</channel>
+
+<channel site="firstmedia.com" xmltv_id="JIANGSU TV" site_id="216" update="i">JIANGSU TV</channel>
+
+<channel site="firstmedia.com" xmltv_id="ANHUI TV" site_id="217" update="i">ANHUI TV</channel>
+
+<channel site="firstmedia.com" xmltv_id="MTV ASIA" site_id="220" update="i">MTV ASIA</channel>
+
+<channel site="firstmedia.com" xmltv_id="CHANNEL NEWSASIA" site_id="232" update="i">CHANNEL NEWSASIA</channel>
+
+<channel site="firstmedia.com" xmltv_id="FOX NEWS CHANNEL" site_id="233" update="i">FOX NEWS CHANNEL</channel>
+
+<channel site="firstmedia.com" xmltv_id="CNN INTERNATIONAL" site_id="236" update="i">CNN INTERNATIONAL</channel>
+
+<channel site="firstmedia.com" xmltv_id="CNBC" site_id="238" update="i">CNBC</channel>
+
+<channel site="firstmedia.com" xmltv_id="ABC Australia" site_id="251" update="i">ABC Australia</channel>
+
+<channel site="firstmedia.com" xmltv_id="WAKUWAKU JAPAN" site_id="254" update="i">WAKUWAKU JAPAN</channel>
+
+<channel site="firstmedia.com" xmltv_id="RAI ITALIA" site_id="258" update="i">RAI ITALIA</channel>
+
+<channel site="firstmedia.com" xmltv_id="TV5 MONDE" site_id="260" update="i">TV5 MONDE</channel>
+
+<channel site="firstmedia.com" xmltv_id="HBO" site_id="285" update="i">HBO</channel>
+
+<channel site="firstmedia.com" xmltv_id="HBO SIGNATURE" site_id="286" update="i">HBO SIGNATURE</channel>
+
+<channel site="firstmedia.com" xmltv_id="HBO HITS" site_id="287" update="i">HBO HITS</channel>
+
+<channel site="firstmedia.com" xmltv_id="HBO FAMILY" site_id="288" update="i">HBO FAMILY</channel>
+
+<channel site="firstmedia.com" xmltv_id="CINEMAX" site_id="290" update="i">CINEMAX</channel>
+
+<channel site="firstmedia.com" xmltv_id="FOX MOVIES" site_id="295" update="i">FOX MOVIES</channel>
+
+<channel site="firstmedia.com" xmltv_id="BERITA SATU WORLD HD" site_id="304" update="i">BERITA SATU WORLD HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="HBO HD" site_id="305" update="i">HBO HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="HBO HITS HD" site_id="306" update="i">HBO HITS HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="HBO FAMILY HD" site_id="307" update="i">HBO FAMILY HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="HBO SIGNATURE HD" site_id="308" update="i">HBO SIGNATURE HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="FOX MOVIES HD" site_id="309" update="i">FOX MOVIES HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="CINEMAX HD" site_id="310" update="i">CINEMAX HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="FOX ACTION MOVIES HD" site_id="312" update="i">FOX ACTION MOVIES HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="STAR CHINESE CHANNEL HD" site_id="313" update="i">STAR CHINESE CHANNEL HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="FOX SPORTS HD" site_id="314" update="i">FOX SPORTS HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="FOX SPORTS 2 HD" site_id="315" update="i">FOX SPORTS 2 HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="FOX SPORTS 3 HD" site_id="316" update="i">FOX SPORTS 3 HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="EUROSPORT HD" site_id="318" update="i">EUROSPORT HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="SETANTA HD" site_id="320" update="i">SETANTA HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="BERITA SATU SPORTS 1 HD" site_id="321" update="i">BERITA SATU SPORTS 1 HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="FIGHT SPORTS HD" site_id="323" update="i">FIGHT SPORTS HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="FOX Life HD" site_id="327" update="i">FOX Life HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="FOX HD" site_id="328" update="i">FOX HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="FOX CRIME HD" site_id="329" update="i">FOX CRIME HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="FOX FAMILY MOVIES HD" site_id="331" update="i">FOX FAMILY MOVIES HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="AXN HD" site_id="332" update="i">AXN HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="SONY CHANNEL HD" site_id="333" update="i">SONY CHANNEL HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="DIVA HD" site_id="334" update="i">DIVA HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="S ONE HD" site_id="338" update="i">S ONE HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="TVN HD" site_id="339" update="i">TVN HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="WAKUWAKU JAPAN HD" site_id="340" update="i">WAKUWAKU JAPAN HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="NHK WORLD JAPAN HD" site_id="341" update="i">NHK WORLD JAPAN HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="ANIMAX HD" site_id="342" update="i">ANIMAX HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="ASIAN FOOD CHANNEL HD" site_id="351" update="i">ASIAN FOOD CHANNEL HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="AL JAZEERA ARABIC" site_id="59" update="i">AL JAZEERA ARABIC</channel>
+
+<channel site="firstmedia.com" xmltv_id="AL JAZEERA INTERNATIONAL" site_id="252" update="i">AL JAZEERA INTERNATIONAL</channel>
+
+<channel site="firstmedia.com" xmltv_id="ANIMAL PLANET HD" site_id="369" update="i">ANIMAL PLANET HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="ARIRANG" site_id="253" update="i">ARIRANG</channel>
+
+<channel site="firstmedia.com" xmltv_id="BBC WORLD" site_id="230" update="i">BBC WORLD</channel>
+
+<channel site="firstmedia.com" xmltv_id="BBC WORLD NEWS HD" site_id="395" update="i">BBC WORLD NEWS HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="BERITA SATU" site_id="6" update="i">BERITA SATU</channel>
+
+<channel site="firstmedia.com" xmltv_id="BLOOMBERG HD" site_id="397" update="i">BLOOMBERG HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="BLOOMBERG TELEVISION" site_id="231" update="i">BLOOMBERG TELEVISION</channel>
+
+<channel site="firstmedia.com" xmltv_id="CARTOON NETWORK HD" site_id="370" update="i">CARTOON NETWORK HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="CHANNEL [V] INTL" site_id="225" update="i">CHANNEL [V] INTL</channel>
+
+<channel site="firstmedia.com" xmltv_id="CNN INT.HD" site_id="396" update="i">CNN INT.HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="DANGDUTZ" site_id="49" update="i">DANGDUTZ</channel>
+
+<channel site="firstmedia.com" xmltv_id="DAVINCI HD" site_id="371" update="i">DAVINCI HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="DISCOVERY ASIA" site_id="364" update="i">DISCOVERY ASIA</channel>
+
+<channel site="firstmedia.com" xmltv_id="DISCOVERY HD" site_id="360" update="i">DISCOVERY HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="DISCOVERY KIDS" site_id="130" update="i">DISCOVERY KIDS</channel>
+
+<channel site="firstmedia.com" xmltv_id="DISCOVERY SCIENCE HD" site_id="368" update="i">DISCOVERY SCIENCE HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="DISNEY HD" site_id="373" update="i">DISNEY HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="DIVA" site_id="299" update="i">DIVA</channel>
+
+<channel site="firstmedia.com" xmltv_id="DMAX HD" site_id="355" update="i">DMAX HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="DW" site_id="250" update="i">DW</channel>
+
+<channel site="firstmedia.com" xmltv_id="DW HD" site_id="393" update="i">DW HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="EVE HD" site_id="354" update="i">EVE HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="FIGHT SPORTS" site_id="149" update="i">FIGHT SPORTS</channel>
+
+<channel site="firstmedia.com" xmltv_id="FIRST HIGHLIGHTS" site_id="900" update="i">FIRST HIGHLIGHTS</channel>
+
+<channel site="firstmedia.com" xmltv_id="FOX SPORTS NEWS" site_id="159" update="i">FOX SPORTS NEWS</channel>
+
+<channel site="firstmedia.com" xmltv_id="FRANCE 24" site_id="261" update="i">FRANCE 24</channel>
+
+<channel site="firstmedia.com" xmltv_id="FYIHD" site_id="366" update="i">FYIHD</channel>
+
+<channel site="firstmedia.com" xmltv_id="GINX" site_id="556" update="i">GINX</channel>
+
+<channel site="firstmedia.com" xmltv_id="HISTORY HD" site_id="365" update="i">HISTORY HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="IDX HD" site_id="415" update="i">IDX HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="JAKARTA GLOBE NEWS CHANNEL HD" site_id="399" update="i">JAKARTA GLOBE NEWS CHANNEL HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="JIM JAM" site_id="129" update="i">JIM JAM</channel>
+
+<channel site="firstmedia.com" xmltv_id="KARAOKE" site_id="30" update="i">KARAOKE</channel>
+
+<channel site="firstmedia.com" xmltv_id="KBS" site_id="262" update="i">KBS</channel>
+
+<channel site="firstmedia.com" xmltv_id="LEJEL HOME SHOPPING" site_id="4" update="i">LEJEL HOME SHOPPING</channel>
+
+<channel site="firstmedia.com" xmltv_id="LIFETIME HD" site_id="359" update="i">LIFETIME HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="MATRIX SHOP" site_id="64" update="i">MATRIX SHOP</channel>
+
+<channel site="firstmedia.com" xmltv_id="MAX" site_id="179" update="i">MAX</channel>
+
+<channel site="firstmedia.com" xmltv_id="MEZZO" site_id="357" update="i">MEZZO</channel>
+
+<channel site="firstmedia.com" xmltv_id="MTV ASIA HD" site_id="356" update="i">MTV ASIA HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="MTV LIVE HD" site_id="358" update="i">MTV LIVE HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="NAT GEO PEOPLE HD" site_id="363" update="i">NAT GEO PEOPLE HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="NAT GEO WILD HD" site_id="362" update="i">NAT GEO WILD HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="NATIONAL GEOGRAPHIC CHANNEL HD" site_id="361" update="i">NATIONAL GEOGRAPHIC CHANNEL HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="NET.TV HD" site_id="390" update="i">NET.TV HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="NHK WORLD" site_id="257" update="i">NHK WORLD</channel>
+
+<channel site="firstmedia.com" xmltv_id="OUTDOOR CHANNEL" site_id="554" update="i">OUTDOOR CHANNEL</channel>
+
+<channel site="firstmedia.com" xmltv_id="REFORMED 21 HD" site_id="391" update="i">REFORMED 21 HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="SKY NEWS HD" site_id="394" update="i">SKY NEWS HD</channel>
+
+<channel site="firstmedia.com" xmltv_id="Star Chinese Channel" site_id="207" update="i">Star Chinese Channel</channel>
+
+<channel site="firstmedia.com" xmltv_id="STAR PLUS" site_id="171" update="i">STAR PLUS</channel>
+
+<channel site="firstmedia.com" xmltv_id="TBN Asia" site_id="61" update="i">TBN Asia</channel>
+
+<channel site="firstmedia.com" xmltv_id="TLC HD" site_id="353" update="i">TLC HD</channel>
+
+</channels>
+
+</site>
